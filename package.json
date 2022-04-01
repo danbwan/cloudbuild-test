@@ -1,0 +1,8 @@
+{
+  "name": "cloudbuild-test",
+  "version": "1.0.0",
+  "description": "For testing CICD solutions",
+  "main": "index.js",
+  "repository": "https://github.com/danbwan/cloudbuild-test.git",
+  "author": "Daniel Wan <daniel.wan@patientzero.com.au>"
+}
